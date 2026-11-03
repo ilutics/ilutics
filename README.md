@@ -5,25 +5,19 @@
 <img alt="Typing introduction" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=18&amp;duration=3500&amp;pause=1100&amp;color=D5AD67&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Building+purposeful+digital+experiences.;Exploring+software%2C+research+and+innovation.;Turning+ideas+into+practical+solutions." />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-whp.life-153244?style=flat-square&labelColor=08131D)](https://whp.life)
-[![Instagram](https://img.shields.io/badge/Instagram-%40willhnsp-153244?style=flat-square&labelColor=08131D)](https://instagram.com/willhnsp)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-153244?style=flat-square&labelColor=08131D)](https://github.com/ilutics)
+[![Instagram](https://img.shields.io/badge/Instagram-%40willhnsp-153244?style=flat-square&labelColor=08131D&logo=instagram&logoColor=D5AD67)](https://instagram.com/willhnsp)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-153244?style=flat-square&labelColor=08131D&logo=github&logoColor=D5AD67)](https://github.com/ilutics)
 
 </div>
-
-<sub><b>BACKGROUND</b></sub>
 
 ## About Me
 
 I'm **William Hans Permana**, an Information Technology Education student and software developer based in Indonesia. I enjoy developing web applications, exploring human-centered digital experiences, and turning research ideas into practical technology.
 
-- Building web-based products, educational technology, and digital solutions.
+- Working on web-based products, educational technology, and digital innovation.
 - Interested in software engineering, UI/UX, product development, and applied research.
-- Learning through real-world projects, experimentation, and collaboration.
+- Continuously learning and improving through real-world projects and collaboration.
 - Personal portfolio: **[whp.life](https://whp.life)**
-
----
-
-<sub><b>EXPERTISE</b></sub>
 
 ## Tech Stack & Tools
 
@@ -47,10 +41,6 @@ I'm **William Hans Permana**, an Information Technology Education student and so
 <img alt="Vercel" height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/vercel.png" />
 
 </div>
-
----
-
-<sub><b>PORTFOLIO</b></sub>
 
 ## Selected Projects
 
@@ -78,10 +68,6 @@ A digital technology initiative focused on developing websites, applications, an
 
 [Explore ILUTECH](https://ilutech.vercel.app)
 
----
-
-<sub><b>SPECIALIZATION</b></sub>
-
 ## Development Focus
 
 ### Software Engineering
@@ -96,19 +82,19 @@ Designing intuitive, responsive, and human-centered digital experiences.
 
 Developing interactive learning experiences and exploring research-driven innovation.
 
-Explore my [GitHub repositories](https://github.com/ilutics?tab=repositories).
-
----
-
-<sub><b>NETWORK</b></sub>
+**Explore my development work and repositories on [GitHub](https://github.com/ilutics?tab=repositories).**
 
 ## Connect With Me
 
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Personal%20Website-whp.life-153244?style=for-the-badge&labelColor=08131D)](https://whp.life)
-[![Instagram](https://img.shields.io/badge/Instagram-willhnsp-153244?style=for-the-badge&labelColor=08131D)](https://instagram.com/willhnsp)
+[![Instagram](https://img.shields.io/badge/Instagram-willhnsp-153244?style=for-the-badge&labelColor=08131D&logo=instagram&logoColor=D5AD67)](https://instagram.com/willhnsp)
 [![ILUTECH](https://img.shields.io/badge/ILUTECH-Website-153244?style=for-the-badge&labelColor=08131D)](https://ilutech.vercel.app)
+
+</div>
+
+<div align="center">
 
 <img width="100%" alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&amp;height=100&amp;section=footer&amp;color=0:08131D,55:153244,100:31536A" />
 
