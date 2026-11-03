@@ -6,7 +6,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-whp.life-153244?style=flat-square&labelColor=08131D)](https://whp.life)
 [![Instagram](https://img.shields.io/badge/Instagram-%40willhnsp-153244?style=flat-square&labelColor=08131D&logo=instagram&logoColor=D5AD67)](https://instagram.com/willhnsp)
-[![GitHub](https://img.shields.io/badge/GitHub-ilutics-153244?style=flat-square&labelColor=08131D&logo=github&logoColor=D5AD67)](https://github.com/ilutics)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-153244?style=flat-square&labelColor=08131D&logo=github&logoColor=D5AD67)](https://github.com/ilutics)
 
 </div>
 
@@ -68,17 +68,21 @@ A digital technology initiative focused on developing websites, applications, an
 
 [Explore ILUTECH](https://ilutech.vercel.app)
 
-*The planned `ilutech.site` domain will be linked after it is activated.*
+## Development Focus
 
-## GitHub Activity
+### Software Engineering
 
-<div align="center">
+Building maintainable web applications and practical digital solutions.
 
-<img alt="GitHub contribution activity graph" width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ilutics&amp;bg_color=0D1117&amp;color=D5AD67&amp;line=6B9AA9&amp;point=D5AD67&amp;area=true&amp;area_color=153244&amp;hide_border=true" />
+### UI/UX & Product Development
 
-</div>
+Designing intuitive, responsive, and human-centered digital experiences.
 
-> GitHub's contribution calendar on [my profile](https://github.com/ilutics) is the primary source for my activity. This graph is an optional visualization provided by a third-party service.
+### Educational Technology & Research
+
+Developing interactive learning experiences and exploring research-driven innovation.
+
+**Explore my development work and repositories on [GitHub](https://github.com/ilutics?tab=repositories).**
 
 ## Connect With Me
 
