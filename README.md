@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" alt="William Hans Permana header" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:08131D,55:153244,100:31536A&text=William%20Hans%20Permana&fontColor=F5F7FA&fontSize=43&fontAlignY=39&desc=Software%20Development%20%7C%20Research%20%7C%20Digital%20Innovation&descAlignY=60&descSize=16&animation=fadeIn" />
+<img width="100%" alt="William Hans Permana header" src="https://capsule-render.vercel.app/api?type=waving&amp;height=230&amp;color=0:08131D,55:153244,100:31536A&amp;text=William%20Hans%20Permana&amp;fontColor=F5F7FA&amp;fontSize=43&amp;fontAlignY=39&amp;desc=Software%20Development%20%7C%20Research%20%7C%20Digital%20Innovation&amp;descAlignY=60&amp;descSize=16&amp;animation=fadeIn" />
 
-<img alt="Typing introduction" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1100&color=D5AD67&center=true&vCenter=true&width=760&lines=Building+purposeful+digital+experiences.;Exploring+software%2C+research+and+innovation.;Turning+ideas+into+practical+solutions." />
+<img alt="Typing introduction" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=18&amp;duration=3500&amp;pause=1100&amp;color=D5AD67&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Building+purposeful+digital+experiences.;Exploring+software%2C+research+and+innovation.;Turning+ideas+into+practical+solutions." />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-whp.life-153244?style=flat-square&labelColor=08131D)](https://whp.life)
 [![Instagram](https://img.shields.io/badge/Instagram-%40willhnsp-153244?style=flat-square&labelColor=08131D&logo=instagram&logoColor=D5AD67)](https://instagram.com/willhnsp)
@@ -74,10 +74,11 @@ A digital technology initiative focused on developing websites, applications, an
 
 <div align="center">
 
-<img alt="GitHub stats" height="170" src="https://github-readme-stats.vercel.app/api?username=ilutics&show_icons=true&hide_border=true&bg_color=0D1117&title_color=D5AD67&text_color=C9D1D9&icon_color=6B9AA9" />
-<img alt="Top languages" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilutics&layout=compact&hide_border=true&bg_color=0D1117&title_color=D5AD67&text_color=C9D1D9" />
+<img alt="GitHub contribution activity graph" width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ilutics&amp;bg_color=0D1117&amp;color=D5AD67&amp;line=6B9AA9&amp;point=D5AD67&amp;area=true&amp;area_color=153244&amp;hide_border=true" />
 
 </div>
+
+> GitHub's contribution calendar on [my profile](https://github.com/ilutics) is the primary source for my activity. This graph is an optional visualization provided by a third-party service.
 
 ## Connect With Me
 
@@ -91,6 +92,6 @@ A digital technology initiative focused on developing websites, applications, an
 
 <div align="center">
 
-<img width="100%" alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:08131D,55:153244,100:31536A" />
+<img width="100%" alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&amp;height=100&amp;section=footer&amp;color=0:08131D,55:153244,100:31536A" />
 
 </div>
