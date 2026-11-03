@@ -1,65 +1,96 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:080e1c,45:172554,100:6d28d9&text=William%20Hans%20Permana&fontColor=ffffff&fontSize=38&fontAlignY=37&desc=ILUTICS%20%7C%20Software%20Developer%20%7C%20Digital%20Innovation&descAlignY=57&descSize=15&animation=fadeIn" width="100%" alt="William Hans Permana - ILUTICS" />
+<img width="100%" alt="William Hans Permana header" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:08131D,55:153244,100:31536A&text=William%20Hans%20Permana&fontColor=F5F7FA&fontSize=43&fontAlignY=39&desc=Software%20Development%20%7C%20Research%20%7C%20Digital%20Innovation&descAlignY=60&descSize=16&animation=fadeIn" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1100&color=9CA3FF&center=true&vCenter=true&width=680&lines=Turning+ideas+into+digital+experiences;Exploring+software%2C+research+%26+innovation;Think.+Build.+Evolve." alt="Animated introduction" /></a>
+<img alt="Typing introduction" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1100&color=D5AD67&center=true&vCenter=true&width=760&lines=Building+purposeful+digital+experiences.;Exploring+software%2C+research+and+innovation.;Turning+ideas+into+practical+solutions." />
 
-<a href="https://github.com/ilutics"><img src="https://komarev.com/ghpvc/?username=ilutics&label=Profile%20Views&color=6d28d9&style=flat-square" alt="Profile views" /></a>
-<a href="https://github.com/ilutics?tab=followers"><img src="https://img.shields.io/github/followers/ilutics?label=Followers&style=flat-square&color=2563eb" alt="GitHub followers" /></a>
-
-</div>
-
-## ✦ About Me
-
-I'm **William Hans Permana**, also known as **ILUTICS**, an Information Technology Education student and software developer based in Indonesia. I enjoy building web applications, exploring human-centered digital experiences, and turning research ideas into practical technology.
-
-- 🔭 Building and exploring web-based products, educational technology, and digital innovation.
-- 🌱 Learning more about full-stack development, product design, and research-driven solutions.
-- 🧩 Interested in **software engineering, UI/UX, educational technology, and digital products**.
-- 🌐 Portfolio: **[whp.life](https://whp.life)**
-- 💬 Open to connecting about technology, collaboration, and creative ideas.
-
-## ⚡ Tech Stack & Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,laravel,react,nextjs,tailwind,mysql,git,github,vscode,figma,vercel&perline=8" alt="Technology stack icons" />
+[![Portfolio](https://img.shields.io/badge/Portfolio-whp.life-153244?style=flat-square&labelColor=08131D)](https://whp.life)
+[![Instagram](https://img.shields.io/badge/Instagram-%40willhnsp-153244?style=flat-square&labelColor=08131D&logo=instagram&logoColor=D5AD67)](https://instagram.com/willhnsp)
+[![GitHub](https://img.shields.io/badge/GitHub-ilutics-153244?style=flat-square&labelColor=08131D&logo=github&logoColor=D5AD67)](https://github.com/ilutics)
 
 </div>
 
-## 🚀 Selected Projects
+## About Me
 
-| Project | What it explores |
-| :--- | :--- |
-| **PeatLogic** | Web-based learning about peatlands, forest fires, and environmental literacy. |
-| **UMSANA** | A web-based concept for managing doctor schedule changes and patient communication. |
-| **HUMAWISE: The Betang Story** | Interactive learning experiences inspired by Huma Betang cultural values. |
-| **ILUTECH** | Digital solutions and web experiences. [Explore website](https://ilutech.vercel.app). |
+I'm **William Hans Permana**, an Information Technology Education student and software developer based in Indonesia. I enjoy developing web applications, exploring human-centered digital experiences, and turning research ideas into practical technology.
 
-> Some projects are academic, collaborative, or in active development. Public repository links can be added when available.
+- Working on web-based products, educational technology, and digital innovation.
+- Interested in software engineering, UI/UX, product development, and applied research.
+- Continuously learning and improving through real-world projects and collaboration.
+- Personal portfolio: **[whp.life](https://whp.life)**
 
-## 📊 GitHub Activity
+## Tech Stack & Tools
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ilutics&show_icons=true&hide_border=true&bg_color=080e1c&title_color=a5b4fc&text_color=cbd5e1&icon_color=818cf8" height="165" alt="GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilutics&layout=compact&hide_border=true&bg_color=080e1c&title_color=a5b4fc&text_color=cbd5e1" height="165" alt="Most used languages" />
+<img alt="HTML" height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/html.png" />
+<img alt="CSS" height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/css.png" />
+<img alt="JavaScript" height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/javascript.png" />
+<img alt="TypeScript" height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/typescript.png" />
+<img alt="PHP" height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/php.png" />
+<img alt="Laravel" height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/laravel.png" />
+<img alt="React" height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/react.png" />
+<img alt="Next.js" height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/next_js.png" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ilutics&bg_color=080e1c&color=a5b4fc&line=818cf8&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
+<img alt="Tailwind CSS" height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/tailwind_css.png" />
+<img alt="MySQL" height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/mysql.png" />
+<img alt="Git" height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/git.png" />
+<img alt="GitHub" height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/github.png" />
+<img alt="VS Code" height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/visual_studio_code.png" />
+<img alt="Figma" height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/figma.png" />
+<img alt="Vercel" height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/vercel.png" />
 
 </div>
 
-## 🌐 Let's Connect
+## Selected Projects
+
+### PeatLogic
+
+An interactive web-based learning platform focused on peatlands, forest and land fires, and environmental literacy. Developed through an educational research and development approach.
+
+**Focus:** Web development · Environmental education · Interactive learning
+
+[Explore PeatLogic](https://peatlogic.site)
+
+### Eco-Mission AR
+
+An educational experience combining interactive web-based learning activities and augmented reality to support environmental learning.
+
+**Focus:** Educational technology · Augmented reality · Interactive experiences
+
+*Public demo link will be added when confirmed.*
+
+### ILUTECH
+
+A digital technology initiative focused on developing websites, applications, and meaningful digital experiences.
+
+**Focus:** Web solutions · Digital products · Product development
+
+[Explore ILUTECH](https://ilutech.vercel.app)
+
+*The planned `ilutech.site` domain will be linked after it is activated.*
+
+## GitHub Activity
 
 <div align="center">
 
-<a href="https://whp.life"><img src="https://img.shields.io/badge/Portfolio-whp.life-172554?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="https://github.com/ilutics"><img src="https://img.shields.io/badge/GitHub-ilutics-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<img alt="GitHub stats" height="170" src="https://github-readme-stats.vercel.app/api?username=ilutics&show_icons=true&hide_border=true&bg_color=0D1117&title_color=D5AD67&text_color=C9D1D9&icon_color=6B9AA9" />
+<img alt="Top languages" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilutics&layout=compact&hide_border=true&bg_color=0D1117&title_color=D5AD67&text_color=C9D1D9" />
 
-<br /><br />
+</div>
 
-<sub>✦ Think. Build. Evolve. ✦</sub>
+## Connect With Me
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:080e1c,45:172554,100:6d28d9" width="100%" alt="Footer wave" />
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Personal%20Website-whp.life-153244?style=for-the-badge&labelColor=08131D)](https://whp.life)
+[![Instagram](https://img.shields.io/badge/Instagram-willhnsp-153244?style=for-the-badge&labelColor=08131D&logo=instagram&logoColor=D5AD67)](https://instagram.com/willhnsp)
+[![ILUTECH](https://img.shields.io/badge/ILUTECH-Website-153244?style=for-the-badge&labelColor=08131D)](https://ilutech.vercel.app)
+
+</div>
+
+<div align="center">
+
+<img width="100%" alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:08131D,55:153244,100:31536A" />
 
 </div>
