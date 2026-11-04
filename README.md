@@ -1,8 +1,9 @@
+
 <div align="center">
 
-<img width="100%" alt="William Hans Permana header" src="https://capsule-render.vercel.app/api?type=waving&amp;height=230&amp;color=0:08131D,55:153244,100:31536A&amp;text=William%20Hans%20Permana&amp;fontColor=F5F7FA&amp;fontSize=43&amp;fontAlignY=39&amp;desc=Software%20Development%20%7C%20Research%20%7C%20Digital%20Innovation&amp;descAlignY=60&amp;descSize=16&amp;animation=fadeIn" />
+<img width="100%" alt="William Hans Permana header" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:08131D,55:153244,100:31536A&text=William%20Hans%20Permana&fontColor=F5F7FA&fontSize=43&fontAlignY=39&desc=Software%20Development%20%7C%20Research%20%7C%20Digital%20Innovation&descAlignY=60&descSize=16&animation=fadeIn" />
 
-<img alt="Typing introduction" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=18&amp;duration=3500&amp;pause=1100&amp;color=D5AD67&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Building+purposeful+digital+experiences.;Exploring+software%2C+research+and+innovation.;Turning+ideas+into+practical+solutions." />
+<img alt="Typing introduction" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1100&color=D5AD67&center=true&vCenter=true&width=760&lines=Building+purposeful+digital+experiences.;Exploring+software%2C+research+and+innovation.;Turning+ideas+into+practical+solutions." />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-whp.life-153244?style=flat-square&labelColor=08131D)](https://whp.life)
 [![Instagram](https://img.shields.io/badge/Instagram-%40willhnsp-153244?style=flat-square&labelColor=08131D&logo=instagram&logoColor=D5AD67)](https://instagram.com/willhnsp)
@@ -58,7 +59,7 @@ An educational experience combining interactive web-based learning activities an
 
 **Focus:** Educational technology · Augmented reality · Interactive experiences
 
-*Public demo link will be added when confirmed.*
+[Explore Eco-Mission AR](https://ecomissionar.com)
 
 ### ILUTECH
 
@@ -96,6 +97,6 @@ Developing interactive learning experiences and exploring research-driven innova
 
 <div align="center">
 
-<img width="100%" alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&amp;height=100&amp;section=footer&amp;color=0:08131D,55:153244,100:31536A" />
+<img width="100%" alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:08131D,55:153244,100:31536A" />
 
 </div>
